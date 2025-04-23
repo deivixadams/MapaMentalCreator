@@ -1,0 +1,65 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de editores
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# VSCode config (opcional)
+.vscode/
+
+# Archivos de sistemas operativos
+ehthumbs.db
+Icon?
+desktop.ini
+
+# MacOS
+__MACOSX/
+
+# Archivos de caché del navegador
+.cache/
+.cache-loader/
+
+# Salida de OBS o capturas temporales
+*.mp4
+*.wav
+*.webm
+*.mov
+
+# Salida de audio generado (opcional)
+audio/
+tts-output/
+voz/
+
+# Archivos que puedas generar para ejemplos (JSON, TXT)
+data/*.backup.json
+data/*.draft.json
+data/*-temp.json
+
+# Archivos de publicación estática
+dist/
+build/
+docs/
+
+# Archivos ZIP o comprimidos temporales
+*.zip
+*.tar.gz
+*.rar
+
+# Archivos de exportación o bundles
+*.min.js
+*.min.css
+
+# Archivos de entorno local si usas Python/Node para servir
+.env
+*.pyc
+__pycache__/
+
+# Otros personales o experimentales
+notes/
+drafts/
+experimentos/

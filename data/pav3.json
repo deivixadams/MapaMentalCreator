@@ -1,0 +1,234 @@
+{
+  "id": "sistema-impositivo-rd",
+  "title": "Sistema impositivo de la República Dominicana",
+  "children": [
+    {
+      "id": "tributacion-directa",
+      "title": "Tributación directa",
+      "children": [
+        {
+          "id": "ir-personas-fisicas",
+          "title": "Impuesto sobre la Renta (Personas Físicas)",
+          "children": [
+            {
+              "id": "irpf-escalas",
+              "title": "Escalas progresivas"
+            },
+            {
+              "id": "irpf-exenciones",
+              "title": "Exenciones y deducciones permitidas"
+            },
+            {
+              "id": "irpf-declaracion",
+              "title": "Declaración anual de renta"
+            }
+          ]
+        },
+        {
+          "id": "ir-personas-juridicas",
+          "title": "Impuesto sobre la Renta (Personas Jurídicas)",
+          "children": [
+            {
+              "id": "irp-tasa-fija",
+              "title": "Tasa impositiva fija"
+            },
+            {
+              "id": "irp-anticipo",
+              "title": "Pago a cuenta o anticipo mensual"
+            },
+            {
+              "id": "irp-gastos-deducibles",
+              "title": "Gastos deducibles y no deducibles"
+            }
+          ]
+        },
+        {
+          "id": "activos",
+          "title": "Impuesto a los Activos",
+          "children": [
+            {
+              "id": "activos-base",
+              "title": "Base imponible"
+            },
+            {
+              "id": "activos-excepciones",
+              "title": "Excepciones aplicables"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tributacion-indirecta",
+      "title": "Tributación indirecta",
+      "children": [
+        {
+          "id": "itbis",
+          "title": "ITBIS (IVA dominicano)",
+          "children": [
+            {
+              "id": "itbis-tasa",
+              "title": "Tasa general y reducida"
+            },
+            {
+              "id": "itbis-productos",
+              "title": "Bienes y servicios exentos"
+            },
+            {
+              "id": "itbis-credito",
+              "title": "Crédito fiscal y compensación"
+            }
+          ]
+        },
+        {
+          "id": "selectivo-consumo",
+          "title": "Impuesto Selectivo al Consumo",
+          "children": [
+            {
+              "id": "isc-tabaco",
+              "title": "Tabaco y derivados"
+            },
+            {
+              "id": "isc-alcohol",
+              "title": "Bebidas alcohólicas"
+            },
+            {
+              "id": "isc-hidrocarburos",
+              "title": "Combustibles y derivados"
+            }
+          ]
+        },
+        {
+          "id": "aranceles",
+          "title": "Aranceles e impuestos aduanales",
+          "children": [
+            {
+              "id": "aduana-base",
+              "title": "Base gravable y clasificación arancelaria"
+            },
+            {
+              "id": "aduana-tratados",
+              "title": "Tratados internacionales y exoneraciones"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "impuestos-municipales",
+      "title": "Impuestos municipales",
+      "children": [
+        {
+          "id": "licencias",
+          "title": "Licencias y patentes municipales",
+          "children": [
+            {
+              "id": "licencias-comercio",
+              "title": "Comercio y actividad económica"
+            },
+            {
+              "id": "licencias-autorizacion",
+              "title": "Requisitos para obtención"
+            }
+          ]
+        },
+        {
+          "id": "impuesto-inmobiliario",
+          "title": "Impuesto a la propiedad inmobiliaria",
+          "children": [
+            {
+              "id": "ipi-base",
+              "title": "Valor catastral de la propiedad"
+            },
+            {
+              "id": "ipi-exenciones",
+              "title": "Exenciones para viviendas principales"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "administracion-tributaria",
+      "title": "Administración tributaria",
+      "children": [
+        {
+          "id": "dgii",
+          "title": "Dirección General de Impuestos Internos (DGII)",
+          "children": [
+            {
+              "id": "dgii-rol",
+              "title": "Funciones y atribuciones"
+            },
+            {
+              "id": "dgii-facturacion",
+              "title": "Factura electrónica y control fiscal"
+            }
+          ]
+        },
+        {
+          "id": "aduanas",
+          "title": "Dirección General de Aduanas",
+          "children": [
+            {
+              "id": "aduanas-inspeccion",
+              "title": "Controles fronterizos"
+            },
+            {
+              "id": "aduanas-declaracion",
+              "title": "Declaración aduanal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regimenes-especiales",
+      "title": "Regímenes especiales",
+      "children": [
+        {
+          "id": "zona-franca",
+          "title": "Zonas Francas",
+          "children": [
+            {
+              "id": "zona-beneficios",
+              "title": "Exoneraciones y beneficios fiscales"
+            },
+            {
+              "id": "zona-requisitos",
+              "title": "Requisitos de instalación"
+            }
+          ]
+        },
+        {
+          "id": "turismo",
+          "title": "Incentivos al Turismo",
+          "children": [
+            {
+              "id": "turismo-ley",
+              "title": "Ley 158-01 y sus modificaciones"
+            },
+            {
+              "id": "turismo-inversion",
+              "title": "Beneficios para inversionistas"
+            }
+          ]
+        },
+        {
+          "id": "renovables",
+          "title": "Incentivos a Energías Renovables",
+          "children": [
+            {
+              "id": "renovables-ley",
+              "title": "Ley 57-07 sobre energías renovables"
+            },
+            {
+              "id": "renovables-exenciones",
+              "title": "Exoneraciones de impuestos"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

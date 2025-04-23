@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #f4f9ff;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  svg#tree {
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .node circle {
+    fill: #77aaff;
+    stroke: steelblue;
+    stroke-width: 2px;
+    cursor: pointer;
+  }
+  
+  .node text {
+    font-size: 14px;
+    pointer-events: none;
+  }
+  
+  .link {
+    fill: none;
+    stroke: #aac;
+    stroke-width: 2px;
+  }
+  
